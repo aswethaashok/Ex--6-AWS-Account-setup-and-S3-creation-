@@ -1,7 +1,7 @@
 # Ex.2 Cloud Storage Creation (S3) and Launching an EC2 Instance in AWS
 
 ## NAME: SWETHA A
-REG NO: 212223220114
+## REG NO: 212223220114
 
 ### Aim
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
